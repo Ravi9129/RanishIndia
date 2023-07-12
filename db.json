@@ -1,0 +1,84 @@
+{
+  "Software": [
+    {
+      "id": 1,
+      "title": "Microsoft",
+      "logo":"docs",
+      "Location":"New York, USA",
+      "JobType":"Full Time",
+      "salaryRange":"$123-$150K",
+      "ApplyLink": "https://careers.microsoft.com/us/en"
+
+    },
+    {
+      "id": 1,
+      "title": "ADOBE",
+      "logo":"docs",
+      "Location":"New York, USA",
+      "JobType":"Full Time",
+      "salaryRange":"$123-$150K",
+      "ApplyLink": "https://www.adobe.com/careers.html"
+
+    },
+    {
+      "id": 1,
+      "title": "DROPBOX",
+      "logo":"docs",
+      "Location":"New York, USA",
+      "JobType":"Full Time",
+      "salaryRange":"123-150K",
+      "ApplyLink": "https://jobs.dropbox.com/"
+
+    },
+
+
+    {
+      "id": 1,
+      "title": "IFS",
+      "logo":"docs",
+      "Location":"New York, USA",
+      "JobType":"Full Time",
+      "salaryRange":"$123-$150K",
+      "ApplyLink": "https://www.ifs.com/about/careers-at-ifs"
+
+    },
+    {
+      "id": 1,
+      "title": "GUIDEWIRE",
+      "logo":"docs",
+      "Location":"New York, USA",
+      "JobType":"Full Time",
+      "salaryRange":"$123-$150K",
+      "ApplyLink": "https://careers.guidewire.com/"
+
+    },
+    {
+      "id": 1,
+      "title": "DROPBOX",
+      "logo":"docs",
+      "Location":"New York, USA",
+      "JobType":"Full Time",
+      "salaryRange":"123-150K",
+      "ApplyLink": "https://jobs.dropbox.com/"
+
+    }
+ 
+  
+  ],
+
+
+
+  "Civil": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+
+
+
+  "profile": {
+    "name": "typicode"
+  }
+}
