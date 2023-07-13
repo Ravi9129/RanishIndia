@@ -2,64 +2,211 @@
   "Software": [
     {
       "id": 1,
-      "title": "Microsoft",
+      "title": "Apple",
       "logo":"docs",
-      "Location":"New York, USA",
+      "Location":"Worldwide",
       "JobType":"Full Time",
-      "salaryRange":"$123-$150K",
-      "ApplyLink": "https://careers.microsoft.com/us/en"
+      "salaryRange":"$20K-$350K",
+      "ApplyLink": "https://www.apple.com/careers/in/"
 
     },
     {
       "id": 1,
-      "title": "ADOBE",
+      "title": "Microsoft",
       "logo":"docs",
-      "Location":"New York, USA",
+      "Location":"Worldwide",
       "JobType":"Full Time",
-      "salaryRange":"$123-$150K",
+      "salaryRange":"$20-$250K",
+      "ApplyLink": "https://careers.microsoft.com/v2/global/en/home.html"
+
+    },
+    {
+      "id": 1,
+      "title": "Google",
+      "logo":"docs",
+      "Location":"Worldwide",
+      "JobType":"Full Time",
+      "salaryRange":"$20-$200K",
+      "ApplyLink": "https://careers.google.com/"
+
+    },
+
+
+    {
+      "id": 1,
+      "title": "Oracle",
+      "logo":"docs",
+      "Location":"Worldwide",
+      "JobType":"Full Time",
+      "salaryRange":"$20-$150K",
+      "ApplyLink": "https://www.oracle.com/careers/ "
+
+    },
+    {
+      "id": 1,
+      "title": "Samsung ",
+      "logo":"docs",
+      "Location":"Worldwide",
+      "JobType":"Full Time",
+      "salaryRange":"$20K-$150K",
+      "ApplyLink": "https://www.samsung.com/in/about-us/careers/"
+
+    },
+    {
+      "id": 1,
+      "title": "Salesforce",
+      "logo":"docs",
+      "Location":"Worldwide",
+      "JobType":"Full Time",
+      "salaryRange":"$20K-$150K",
+      "ApplyLink": "https://www.salesforce.com/company/careers/"
+
+    },
+    {
+      "id": 1,
+      "title": "Adobe ",
+      "logo":"docs",
+      "Location":"Worldwide",
+      "JobType":"Full Time",
+      "salaryRange":"$20K-$150K",
+      
       "ApplyLink": "https://www.adobe.com/careers.html"
 
     },
-    {
+
+        {
       "id": 1,
-      "title": "DROPBOX",
+      "title": "SAP ",
       "logo":"docs",
-      "Location":"New York, USA",
+      "Location":"Worldwide",
       "JobType":"Full Time",
-      "salaryRange":"123-150K",
-      "ApplyLink": "https://jobs.dropbox.com/"
+      "salaryRange":"$20K-$150K",
+      
+      "ApplyLink": "https://jobs.sap.com/"
+
+    },
+        {
+      "id": 1,
+      "title": "Intuit  ",
+      "logo":"docs",
+      "Location":"Worldwide",
+      "JobType":"Full Time",
+      "salaryRange":"$20K-$150K",
+      
+      "ApplyLink": "https://www.intuit.com/careers/"
+
+    },
+        {
+      "id": 1,
+      "title": "Huawei  ",
+      "logo":"docs",
+      "Location":"Worldwide",
+      "JobType":"Full Time",
+      "salaryRange":"$20K-$120K",
+      
+      "ApplyLink": "https://career.huawei.com/reccampportal/my/portal/index.html"
+
+    },
+            {
+      "id": 1,
+      "title": "IBM   ",
+      "logo":"docs",
+      "Location":"Worldwide",
+      "JobType":"Full Time",
+      "salaryRange":"$20K-$150K",
+      
+      "ApplyLink": "https://www.ibm.com/careers/in-en/"
+
+    },
+        {
+      "id": 1,
+      "title": "Dell Technologies",
+      "logo":"docs",
+      "Location":"Worldwide",
+      "JobType":"Full Time",
+      "salaryRange":"$20K-$120K",
+      
+      "ApplyLink": "https://jobs.dell.com/"
 
     },
 
 
-    {
+            {
       "id": 1,
-      "title": "IFS",
+      "title": "Hitachi",
       "logo":"docs",
-      "Location":"New York, USA",
+      "Location":"Worldwide",
       "JobType":"Full Time",
-      "salaryRange":"$123-$150K",
-      "ApplyLink": "https://www.ifs.com/about/careers-at-ifs"
+      "salaryRange":"$20K-$130K",
+      
+      "ApplyLink": "https://careers.hitachi.com/"
 
     },
-    {
+        {
       "id": 1,
-      "title": "GUIDEWIRE",
+      "title": "VMware",
       "logo":"docs",
-      "Location":"New York, USA",
+      "Location":"Worldwide",
       "JobType":"Full Time",
-      "salaryRange":"$123-$150K",
-      "ApplyLink": "https://careers.guidewire.com/"
+      "salaryRange":"$20K-$90K",
+      
+      "ApplyLink": "https://careers.vmware.com/careers-home/"
 
     },
-    {
+            {
       "id": 1,
-      "title": "DROPBOX",
+      "title": "Cisco Systems   ",
       "logo":"docs",
-      "Location":"New York, USA",
+      "Location":"Worldwide",
       "JobType":"Full Time",
-      "salaryRange":"123-150K",
-      "ApplyLink": "https://jobs.dropbox.com/"
+      "salaryRange":"$20K-$90K",
+      
+      "ApplyLink": "https://jobs.cisco.com/"
+
+    },
+        {
+      "id": 1,
+      "title": "HCL Technologies",
+      "logo":"docs",
+      "Location":"Worldwide",
+      "JobType":"Full Time",
+      "salaryRange":"10K-$50K",
+      
+      "ApplyLink": "https://www.hcltech.com/careers"
+
+    },
+
+            {
+      "id": 1,
+      "title": "Infosys",
+      "logo":"docs",
+      "Location":"Worldwide",
+      "JobType":"Full Time",
+      "salaryRange":"$10K-$50K",
+      
+      "ApplyLink": "https://www.infosys.com/careers.html"
+
+    },
+            {
+      "id": 1,
+      "title": "Wipro  ",
+      "logo":"docs",
+      "Location":"Worldwide",
+      "JobType":"Full Time",
+      "salaryRange":"$20K-$90K",
+      
+      "ApplyLink": "https://careers.wipro.com/careers-home"
+
+    },
+        {
+      "id": 1,
+      "title": "Accenture ",
+      "logo":"docs",
+      "Location":"Worldwide",
+      "JobType":"Full Time",
+      "salaryRange":"10K-$50K",
+      
+      "ApplyLink": "Accenture "
 
     }
  
@@ -70,11 +217,145 @@
 
   "Civil": [
     {
+
       "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "title": "Google",
+      "logo":"docs",
+      "Location":"New York, UK",
+      "JobType":"Full Time",
+      "salaryRange":"123-150K",
+      
+      "ApplyLink": "https://jobs.dropbox.com/"
     }
   ],
+
+  "Business Develop": [
+    {
+      
+      "id": 1,
+      "title": "Google",
+      "logo":"docs",
+      "Location":"New York, UK",
+      "JobType":"Full Time",
+      "salaryRange":"123-150K",
+      
+      "ApplyLink": "https://jobs.dropbox.com/"
+    }
+  ],
+
+  "Customer_Service": [
+    {
+      
+      "id": 1,
+      "title": "Google",
+      "logo":"docs",
+      "Location":"New York, UK",
+      "JobType":"Full Time",
+      "salaryRange":"123-150K",
+      
+      "ApplyLink": "https://jobs.dropbox.com/"
+    }
+  ],
+
+  "Design_Creative": [
+    {
+      
+      "id": 1,
+      "title": "Google",
+      "logo":"docs",
+      "Location":"New York, UK",
+      "JobType":"Full Time",
+      "salaryRange":"123-150K",
+      
+      "ApplyLink": "https://jobs.dropbox.com/"
+    }
+  ],
+
+  "Electrical": [
+    {
+      
+      "id": 1,
+      "title": "Google",
+      "logo":"docs",
+      "Location":"New York, UK",
+      "JobType":"Full Time",
+      "salaryRange":"123-150K",
+      
+      "ApplyLink": "https://jobs.dropbox.com/"
+    }
+  ],
+
+  "Electronics": [
+    {
+      
+      "id": 1,
+      "title": "Google",
+      "logo":"docs",
+      "Location":"New York, UK",
+      "JobType":"Full Time",
+      "salaryRange":"123-150K",
+      
+      "ApplyLink": "https://jobs.dropbox.com/"
+    }
+  ],
+
+  "Freelance": [
+    {
+      
+      "id": 1,
+      "title": "Google",
+      "logo":"docs",
+      "Location":"New York, UK",
+      "JobType":"Full Time",
+      "salaryRange":"123-150K",
+      
+      "ApplyLink": "https://jobs.dropbox.com/"
+    }
+  ],
+
+  "Marketing": [
+    {
+      
+      "id": 1,
+      "title": "Google",
+      "logo":"docs",
+      "Location":"New York, UK",
+      "JobType":"Full Time",
+      "salaryRange":"123-150K",
+      
+      "ApplyLink": "https://jobs.dropbox.com/"
+    }
+  ],
+
+  "Mechanical": [
+    {
+      
+      "id": 1,
+      "title": "Google",
+      "logo":"docs",
+      "Location":"New York, UK",
+      "JobType":"Full Time",
+      "salaryRange":"123-150K",
+      
+      "ApplyLink": "https://jobs.dropbox.com/"
+    }
+  ],
+
+
+  "Teaching": [
+    {
+      
+      "id": 1,
+      "title": "Google",
+      "logo":"docs",
+      "Location":"New York, UK",
+      "JobType":"Full Time",
+      "salaryRange":"123-150K",
+      
+      "ApplyLink": "https://jobs.dropbox.com/"
+    }
+  ],
+
 
 
 
