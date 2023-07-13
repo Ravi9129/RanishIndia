@@ -342,23 +342,6 @@
   ],
 
 
-  "Teaching": [
-    {
-      
-      "id": 1,
-      "title": "Google",
-      "logo":"docs",
-      "Location":"New York, UK",
-      "JobType":"Full Time",
-      "salaryRange":"123-150K",
-      
-      "ApplyLink": "https://jobs.dropbox.com/"
-    }
-  ],
-
-
-
-
   "profile": {
     "name": "typicode"
   }
